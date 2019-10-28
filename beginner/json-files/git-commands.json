@@ -334,4 +334,8 @@
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
   }
+  {
+    "title": "git config -global user.",
+    "description": "This command sets the author name and email address respectively to be used with your commits."
+  }
 ]
